@@ -1,4 +1,3 @@
-
 /**
  * This class defines how power pills behave in
  * a game.  The purpose of a power pill is to simply
